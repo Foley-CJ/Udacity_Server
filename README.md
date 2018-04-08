@@ -12,3 +12,5 @@ In order to prepare the application the server was configured with the following
 3. oauth2client
 4. request
 5. psycopg2
+
+Current Production Access Point: 18.221.171.144
