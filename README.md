@@ -14,4 +14,5 @@ In order to prepare the application the server was configured with the following
 5. psycopg2
 
 Current Production Access Point: 18.221.171.144
+
 SSH port: 2200
